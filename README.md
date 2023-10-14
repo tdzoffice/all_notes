@@ -9,3 +9,7 @@ Apply Changes:
 
 # Add Flutter
 
+``` export PATH="/Users/thawdezin/Flutter/flutter/bin:$PATH" ```
+
+## Upgrade Flutter
+``` flutter pub upgrade --major-versions ```
