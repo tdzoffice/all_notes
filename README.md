@@ -13,3 +13,6 @@ Apply Changes:
 
 ## Upgrade Flutter
 ``` flutter pub upgrade --major-versions ```
+
+## Upgrade pub.dev
+``` flutter pub upgrade --major-versions ```
