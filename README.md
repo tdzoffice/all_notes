@@ -16,3 +16,8 @@ Apply Changes:
 
 ## Upgrade pub.dev
 ``` flutter pub upgrade --major-versions ```
+
+## VScode formatter
+``` Shift + Alt + F ``` for Windows 
+``` Shift + Options + F ``` for Mac
+``` Ctrl + Shift + I ``` for Linux
