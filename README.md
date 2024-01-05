@@ -21,3 +21,7 @@ Apply Changes:
 ``` Shift + Alt + F ``` for Windows 
 ``` Shift + Options + F ``` for Mac
 ``` Ctrl + Shift + I ``` for Linux
+
+
+### Get SHA1 for Firebase
+``` ./gradlew signingReport ```
