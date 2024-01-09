@@ -14,8 +14,8 @@ Apply Changes:
 ## Upgrade Flutter
 ``` flutter pub upgrade --major-versions ```
 
-## Upgrade pub.dev
-``` flutter pub upgrade --major-versions ```
+## Gradle <-> Kotlin <-> Java
+``` https://docs.gradle.org/current/userguide/compatibility.html ```
 
 ## VScode formatter
 ``` Shift + Alt + F ``` for Windows 
