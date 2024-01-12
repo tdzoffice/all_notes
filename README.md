@@ -25,3 +25,6 @@ Apply Changes:
 
 ### Get SHA1 for Firebase
 ``` ./gradlew signingReport ```
+
+## Flask
+``` python3 -m flask run --host=0.0.0.0 ```
