@@ -14,6 +14,10 @@ Apply Changes:
 ## Upgrade Flutter
 ``` flutter pub upgrade --major-versions ```
 
+## Get CLI
+``` dart pub global deactivate get_cli ```
+``` dart pub global activate -s git https://github.com/knottx/get_cli.git ```
+
 ## Gradle <-> Kotlin <-> Java
 ``` https://docs.gradle.org/current/userguide/compatibility.html ```
 
@@ -28,3 +32,6 @@ Apply Changes:
 
 ## Flask
 ``` python3 -m flask run --host=0.0.0.0 ```
+
+
+
