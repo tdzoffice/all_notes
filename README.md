@@ -17,6 +17,7 @@ Apply Changes:
 ## Get CLI
 ``` dart pub global deactivate get_cli ```
 ``` dart pub global activate -s git https://github.com/knottx/get_cli.git ```
+``` flutter pub global activate get_cli 1.8.0 ```
 
 ## Gradle <-> Kotlin <-> Java
 ``` https://docs.gradle.org/current/userguide/compatibility.html ```
