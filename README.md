@@ -34,5 +34,11 @@ Apply Changes:
 ## Flask
 ``` python3 -m flask run --host=0.0.0.0 ```
 
+## to do to Change Laptop
 
-
+1. ``` firebase logout ```
+2. ``` git config --global --unset-all ```
+3. ``` git credential reject ```
+4.  logout all google accounts 
+5.  uninstall all browsers or reset them all
+6. 
