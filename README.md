@@ -7,6 +7,11 @@ If you're using Nano, press Ctrl+O to save, then press Enter, and finally press 
 Apply Changes:
 ```source ~/.zshrc```
 
+# Xcode_iOS
+``` sudo sh -c 'xcode-select -s /Applications/Xcode.app/Contents/Developer && xcodebuild -runFirstLaunch' ``` 
+``` sudo xcode-select --install ```
+``` sudo xcodebuild -license accept ```
+
 # Add Flutter
 
 ``` export PATH="/Users/thawdezin/Flutter/flutter/bin:$PATH" ```
