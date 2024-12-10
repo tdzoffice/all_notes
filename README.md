@@ -32,12 +32,26 @@ Apply Changes:
 ``` Shift + Options + F ``` for Mac
 ``` Ctrl + Shift + I ``` for Linux
 
+## Useful Shortcuts
+
+Cmd + Shift + 4 -> screenshot
+Cmd + Shift + O -> Xcode file search
+Cmd + Ctrl + q -> Lock macbook
+Cmd + Shift + F -> Android Studio All Search (same for Xcode)
 
 ### Get SHA1 for Firebase
 ``` ./gradlew signingReport ```
 
 ## Flask
 ``` python3 -m flask run --host=0.0.0.0 ```
+
+## Python
+
+```
+python3 -m venv hsumyat
+source hsumyat/bin/activate (macOS)
+.\hsumyat\Scripts\activate (windows)
+```
 
 ## to do to Change Laptop
 
