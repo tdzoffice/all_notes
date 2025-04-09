@@ -58,6 +58,7 @@ source hsumyat/bin/activate (macOS)
 1. ``` firebase logout ```
 2. ``` git config --global --unset-all ```
 3. ``` git credential reject ```
-4.  logout all google accounts 
-5.  uninstall all browsers or reset them all
-6. 
+4. ``` gh auth logout ```
+5.  logout all google accounts 
+6.  uninstall all browsers or reset them all
+7. 
