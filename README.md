@@ -62,3 +62,8 @@ source hsumyat/bin/activate (macOS)
 5.  logout all google accounts 
 6.  uninstall all browsers or reset them all
 7. 
+
+
+## Github
+
+https://raw.githubusercontent.com/thawdezin/
