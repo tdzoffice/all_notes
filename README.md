@@ -64,6 +64,9 @@ source hsumyat/bin/activate (macOS)
 7. Delete Server login password in Key Chain Acces -> smb://10.95.101.31
 8. Delete Android Studio and .jks files
 9. Delete Python Environment > source $HOME/tdz/hsumyat/bin/activate
+10. git push all changes
+11. Delete Android Studio Project and Xcode Projects
+12. 
 
 
 ## Github
