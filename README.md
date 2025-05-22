@@ -63,7 +63,7 @@ source hsumyat/bin/activate (macOS)
 6. Uninstall all browsers or reset them all
 7. Delete Server login password in Key Chain Acces -> smb://10.95.101.31
 8. Delete Android Studio and .jks files
-9. 
+9. Delete Python Environment > source $HOME/tdz/hsumyat/bin/activate
 
 
 ## Github
