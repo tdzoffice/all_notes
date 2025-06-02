@@ -66,7 +66,7 @@ source hsumyat/bin/activate (macOS)
 9. Delete Python Environment > source $HOME/tdz/hsumyat/bin/activate
 10. git push all changes
 11. Delete Android Studio Project and Xcode Projects
-12. 
+12. uninstall Powerpoint, Office
 
 
 ## Github
